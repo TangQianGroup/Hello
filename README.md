@@ -7,6 +7,30 @@
 2026年03月03日更新：团队目前有**4个**空缺的**2026年秋季入学**硕士研究生名额，课题需求为机器人应用、金属增材制造、机械系统大数据分析优化。欢迎**预计可获得推免资格**的推免生、**初试后预计可通过二次划线**的统考生咨询联系，为提高招生工作效率，
 请发送邮件时务必按照**硕-26-推-学校-姓名**或**硕-26-考-学校-姓名**的格式命名pdf版本简历，邮件中、简历中均需要预留手机号、微信二维码方便联系。
 
+## 团队近年论文信息
+
+### 2026年
+
+Zhichao Luo, Jun Song, Qian Tang, Junjie Chen, Yuanhang Zhang, Shiyu Zhong, Ran An, Yuanyuan Tian, and Kun Zhou. "Bark‐Fissure‐Inspired Lattice Metamaterials for Concurrent Enhancement of Mechanical and Mass Transport Properties." Advanced Functional Materials (2026): e25239.
+
+### 2025年
+
+Junjie Chen, Zhichao Luo, Qian Tang, Fei Liu, Xiaobo Zhang, Yuanhang Zhang, and Yutong Chen. "Strengthening mechanisms of bioinspired interpenetrating phase composites with negative Poisson's ratio." Thin-Walled Structures 216 (2025): 113520.
+
+Guowang Chen, Qian Tang, Heng Li, and Kuangchi Sun. "Rigid-flexible coupling dynamic-assisted imbalanced fault diagnosis for helicopter tail transmission system." Measurement 242 (2025): 115934.
+
+Guowang Chen, Qian Tang, Jian Lan, Liu He, and Kuangchi Sun. "Dynamic embedded spatial–temporal graph construction via virtual nodes for helicopter transmission system fault diagnosis." Measurement 252 (2025): 117401.
+
+Guowang Chen, Qian Tang, and Liu He. "GA-former: graph attention embedded transformer for multivariable vibration response prediction of helicopters." Nonlinear Dynamics 113, no. 13 (2025): 15775-15813.
+
+### 2024年
+
+Zhichao Luo, Qian Tang, Jun Song, Yuanhang Zhang, Qixiang Feng, Shuai Ma, Rossitza Setchi, and Miao Zhao. "TPMS-based strut-shell interpenetrating lattice metamaterial with wide-range customizable mechanical properties and superior energy absorption." Composite Structures 349 (2024): 118555.
+
+Zhichao Luo, Qian Tang, Shuai Ma, Xiaodong Wu, Qixiang Feng, Rossitza Setchi, Kun Li, and Miao Zhao. "Effect of aspect ratio on mechanical anisotropy of lattice structures." International Journal of Mechanical Sciences 270 (2024): 109111.
+
+Yunfei Nie, Changliang Qin, Qian Tang, Binsheng Wang, Haibin Wu, Jun Song, and Kun Li. "Numerical simulation of heat and mass transfer in laser directed energy deposition." Optics & Laser Technology 176 (2024): 111024.
+
 ## 团队近年博士论文信息
 
 [数据驱动的直升机尾传动系统故障诊断研究]()
