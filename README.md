@@ -7,3 +7,31 @@
 2026年03月03日更新：团队目前有**4个**空缺的**2026年秋季入学**硕士研究生名额，课题需求为机器人应用、金属增材制造、机械系统大数据分析优化。欢迎**预计可获得推免资格**的推免生、**初试后预计可通过二次划线**的统考生咨询联系，为提高招生工作效率，
 请发送邮件时务必按照**硕-26-推-学校-姓名**或**硕-26-考-学校-姓名**的格式命名pdf版本简历，邮件中、简历中均需要预留手机号、微信二维码方便联系。
 
+## 团队近年博士论文信息
+[基于小样本深度学习的磨削加工精度与刀具磨损预测方法研究](https://kns.cnki.net/kcms2/article/abstract?v=l4rz0Y_R2D_UkFRvY9ihVv2un7AS0MsZws3qSEU6lkmYX9N5iXgJpiTH_yEKFkv-uRuoH9L6JNG4Gibj9nti9336ykbySL0zmv_ZJriVfLv1wWzHSOvptQ02zssmaNFN9xeXRP2Ur1vCwHcUPGPseuAtuPwf_ILJWAZX_e0Oglds8zrkpaJQ5rmsqwX1rJ_m&uniplatform=NZKPT&language=CHS)
+
+[]()
+
+[]()
+
+## 团队近年硕士论文信息
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
