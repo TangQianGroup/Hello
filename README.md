@@ -9,9 +9,11 @@
 
 ## 团队近年论文信息
 
-### 2026年
+### Preprints
 
 Fuyu Guo, Yuting Mei, Yuyao Zhang, Qian Tang. "Two-Stage Path Following for Mobile Manipulators via Dimensionality-Reduced Graph Search and Numerical Optimization." [arXiv:2603.07003](https://arxiv.org/abs/2603.07003)
+
+### 2026年
 
 Zhichao Luo, Jun Song, Qian Tang, Junjie Chen, Yuanhang Zhang, Shiyu Zhong, Ran An, Yuanyuan Tian, and Kun Zhou. "Bark‐Fissure‐Inspired Lattice Metamaterials for Concurrent Enhancement of Mechanical and Mass Transport Properties." Advanced Functional Materials (2026): e25239.
 
