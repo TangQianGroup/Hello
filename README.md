@@ -10,7 +10,7 @@
 ## 团队近年论文信息
 
 ### 2026年
-[Two-Stage Path Following for Mobile Manipulators via Dimensionality-Reduced Graph Search and Numerical Optimization](https://arxiv.org/abs/2603.07003), Fuyu Guo, Yuting Mei, Yuyao Zhang, Qian Tang, **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2026(**IEEE机器人旗舰会议，2026年接受率36%**)
+[Two-Stage Path Following for Mobile Manipulators via Dimensionality-Reduced Graph Search and Numerical Optimization](https://arxiv.org/abs/2603.07003), Fuyu Guo, Yuting Mei, Yuyao Zhang, Qian Tang, **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2026(**IEEE机器人旗舰会议，2026年接收率36%**)
 
 [A Rod-Driven Minimally Invasive Bioprinting Continuum Robotic System for Repairing Knee Joint Cartilage Defects](https://ieeexplore.ieee.org/abstract/document/11447347), Xinyu Li, Qian Tang, Wei Liu, Yuhao Wang, Ying Zhang, Gang Zheng, Ke Wu, **IEEE/ASME Transactions on Mechatronics**(**IF 6.3**)
 
